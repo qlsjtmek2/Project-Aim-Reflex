@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "ProjectAim-Reflex.sln"
+    "dotnet.defaultSolution": "Project-Aim-Reflex.sln"
 }
